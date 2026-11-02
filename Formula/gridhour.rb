@@ -3,8 +3,8 @@ class Gridhour < Formula
 
   desc "When UK electricity is green and cheap: carbon and Octopus prices in your terminal"
   homepage "https://github.com/777dimas/gridhour"
-  url "https://files.pythonhosted.org/packages/9c/15/619e32bd3f4fb6fe93cc53fb9e2e73ffda1f3d270d45156f30992841a9ce/gridhour-0.5.0.tar.gz"
-  sha256 "93c1737205dde2308d0545600b6f663ad6ced487ff2710eb8fbfd8e1bb5d6948"
+  url "https://files.pythonhosted.org/packages/d7/be/996f06f9672ed53442b3ed52a8e56023ce0c82f6187f490c8313c268dc43/gridhour-0.6.0.tar.gz"
+  sha256 "8800eacf1a65d557f573c67f94b74fc6525346badf5bad2e2f5764159106454c"
   license "MIT"
 
   depends_on "python@3.13"
